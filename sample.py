@@ -1,1 +1,2 @@
-print("hello world")
+print("hello " , end="/n ")
+print ("world")
